@@ -26,6 +26,7 @@
 | [0041-first-missing-positive](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0041-first-missing-positive) |
 | [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0705-design-hashset) |
+| [0881-boats-to-save-people](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0881-boats-to-save-people) |
 | [1640-check-array-formation-through-concatenation](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1640-check-array-formation-through-concatenation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -36,11 +37,13 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0881-boats-to-save-people) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0881-boats-to-save-people) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -72,4 +75,8 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0705-design-hashset) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
