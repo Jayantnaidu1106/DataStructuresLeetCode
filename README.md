@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -29,10 +31,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -42,4 +46,12 @@
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
