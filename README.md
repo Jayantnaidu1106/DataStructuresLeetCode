@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0041-first-missing-positive) |
+| [0219-contains-duplicate-ii](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0705-design-hashset) |
@@ -61,11 +62,13 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0041-first-missing-positive) |
+| [0219-contains-duplicate-ii](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0705-design-hashset](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0705-design-hashset) |
 | [1640-check-array-formation-through-concatenation](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1640-check-array-formation-through-concatenation) |
 ## Design
