@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0041-first-missing-positive) |
 | [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0705-design-hashset) |
 | [1640-check-array-formation-through-concatenation](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1640-check-array-formation-through-concatenation) |
@@ -60,6 +61,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0041-first-missing-positive) |
 | [0705-design-hashset](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0705-design-hashset) |
 | [1640-check-array-formation-through-concatenation](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1640-check-array-formation-through-concatenation) |
 ## Design
