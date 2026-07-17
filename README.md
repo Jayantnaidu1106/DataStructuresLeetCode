@@ -92,4 +92,20 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
