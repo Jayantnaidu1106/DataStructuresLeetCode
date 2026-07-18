@@ -30,10 +30,12 @@
 | [0705-design-hashset](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0705-design-hashset) |
 | [0881-boats-to-save-people](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0881-boats-to-save-people) |
 | [1640-check-array-formation-through-concatenation](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1640-check-array-formation-through-concatenation) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -54,6 +56,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
