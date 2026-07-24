@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0041-first-missing-positive) |
+| [0119-pascals-triangle-ii](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
@@ -128,4 +129,8 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
