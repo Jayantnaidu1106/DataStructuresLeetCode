@@ -16,6 +16,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
+| [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
 ## Merge Sort
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0705-design-hashset) |
+| [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
 | [0881-boats-to-save-people](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0881-boats-to-save-people) |
 | [1640-check-array-formation-through-concatenation](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
+| [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
 ## Sliding Window
 |  |
 | ------- |
@@ -94,6 +97,7 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -106,10 +110,12 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
 ## Binary Tree
 |  |
 | ------- |
@@ -133,4 +139,8 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0119-pascals-triangle-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
