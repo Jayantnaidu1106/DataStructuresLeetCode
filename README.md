@@ -28,6 +28,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0705-design-hashset) |
 | [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
@@ -38,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -49,6 +51,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0881-boats-to-save-people) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
