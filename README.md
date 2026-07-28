@@ -155,5 +155,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
