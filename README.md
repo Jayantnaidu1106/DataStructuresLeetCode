@@ -152,4 +152,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
