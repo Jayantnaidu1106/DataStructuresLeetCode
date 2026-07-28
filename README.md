@@ -54,6 +54,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0881-boats-to-save-people) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -128,6 +129,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -146,4 +148,8 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
