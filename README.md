@@ -48,6 +48,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1025-divisor-game](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -170,6 +171,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0486-predict-the-winner) |
+| [1025-divisor-game](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1025-divisor-game) |
 ## Union-Find
 |  |
 | ------- |
@@ -207,4 +209,9 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0486-predict-the-winner) |
+| [1025-divisor-game](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
