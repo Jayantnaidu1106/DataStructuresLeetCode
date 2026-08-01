@@ -16,6 +16,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
+| [0743-network-delay-time](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
 ## Merge Sort
 |  |
@@ -118,11 +119,13 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
 ## Binary Tree
 |  |
@@ -169,4 +172,12 @@
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0491-non-decreasing-subsequences) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
