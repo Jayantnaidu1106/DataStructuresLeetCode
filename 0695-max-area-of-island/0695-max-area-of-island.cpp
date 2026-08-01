@@ -4,14 +4,20 @@ public:
      int iy[4] = {0,1,0,-1};
     int ix[4] = {-1,0,1,0};
     int dfs(vector<vector<int>>& grid,vector<vector<bool>>& vis,int x,int y){
-        if(x < 0 || x >= n || y < 0 || y >= m || vis[x][y] || !grid[x][y]) return 0;
         vis[x][y] = true;
-        int le = dfs(grid,vis,x,y-1);
-         int ri = dfs(grid,vis,x,y+1);
-          int t = dfs(grid,vis,x -1,y);
-           int d = dfs(grid,vis,x + 1,y);
+          int ans = 1;
+        for(int i = 0;i<4;i++){
+            int nx = x + ix[i];
+           int ny = y + iy[i];
 
-        return 1 + le + ri + t + d;
+            if(nx>=0 && ny>=0 && nx<n && ny <m){
+            if(!vis[nx][ny] && grid[nx][ny])
+             ans += dfs(grid,vis,nx,ny);
+            }
+        }
+
+
+        return ans;
     }
        
 
