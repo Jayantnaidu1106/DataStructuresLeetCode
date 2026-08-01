@@ -27,6 +27,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0041-first-missing-positive) |
 | [0119-pascals-triangle-ii](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0200-number-of-islands](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0486-predict-the-winner](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0486-predict-the-winner) |
@@ -106,6 +107,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
 ## Prefix Sum
@@ -121,12 +123,14 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0200-number-of-islands) |
 | [0743-network-delay-time](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0200-number-of-islands) |
 | [0743-network-delay-time](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
 ## Binary Tree
@@ -160,6 +164,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
 ## Counting Sort
 |  |
