@@ -34,6 +34,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0705-design-hashset) |
 | [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
 | [0881-boats-to-save-people](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0881-boats-to-save-people) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0695-max-area-of-island](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
 ## Prefix Sum
 |  |
@@ -124,6 +126,7 @@
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
 ## Breadth-First Search
@@ -131,6 +134,7 @@
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
 ## Binary Tree
@@ -165,6 +169,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
 ## Counting Sort
 |  |
