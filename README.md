@@ -38,6 +38,7 @@
 | [0705-design-hashset](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0705-design-hashset) |
 | [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
 | [0881-boats-to-save-people](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0881-boats-to-save-people) |
+| [0994-rotting-oranges](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0994-rotting-oranges) |
 | [1109-corporate-flight-bookings](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1640-check-array-formation-through-concatenation](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -112,6 +113,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0695-max-area-of-island](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
+| [0994-rotting-oranges](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0994-rotting-oranges) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [0743-network-delay-time](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0778-swim-in-rising-water) |
 | [0841-keys-and-rooms](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
