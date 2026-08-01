@@ -29,6 +29,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0486-predict-the-winner](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
@@ -42,6 +43,7 @@
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -154,6 +156,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0486-predict-the-winner](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0486-predict-the-winner) |
 ## Union-Find
 |  |
 | ------- |
@@ -180,4 +183,12 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0743-network-delay-time) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
