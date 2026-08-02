@@ -30,6 +30,7 @@
 | [0200-number-of-islands](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0416-partition-equal-subset-sum](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0494-target-sum) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0494-target-sum) |
 | [1025-divisor-game](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1025-divisor-game) |
