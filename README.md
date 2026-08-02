@@ -32,6 +32,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0486-predict-the-winner](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0695-max-area-of-island) |
@@ -171,6 +172,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0494-target-sum) |
 | [1025-divisor-game](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1025-divisor-game) |
 ## Union-Find
 |  |
@@ -188,6 +190,7 @@
 | [0052-n-queens-ii](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0077-combinations) |
 | [0491-non-decreasing-subsequences](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
