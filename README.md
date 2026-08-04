@@ -44,6 +44,7 @@
 | [1109-corporate-flight-bookings](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1640-check-array-formation-through-concatenation](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -66,6 +67,7 @@
 | [0658-find-k-closest-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0881-boats-to-save-people) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -94,6 +96,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0705-design-hashset](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0705-design-hashset) |
 | [1640-check-array-formation-through-concatenation](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1640-check-array-formation-through-concatenation) |
+| [3731-find-missing-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3731-find-missing-elements) |
 ## Design
 |  |
 | ------- |
