@@ -44,6 +44,7 @@
 | [1109-corporate-flight-bookings](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1640-check-array-formation-through-concatenation](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Graph Theory
 |  |
 | ------- |
