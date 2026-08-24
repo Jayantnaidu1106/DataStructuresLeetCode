@@ -230,4 +230,5 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0175-combine-two-tables) |
+| [1280-students-and-examinations](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
