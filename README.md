@@ -226,4 +226,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/1025-divisor-game) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Jayantnaidu1106/DataStructuresLeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
